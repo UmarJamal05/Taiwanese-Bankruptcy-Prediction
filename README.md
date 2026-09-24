@@ -73,5 +73,4 @@ threshold converts that into a `0`/`1` flag calibrated for a cost-sensitive use 
 (missing a bankruptcy is treated as costlier than a false alarm).
 
 ## License
-This project is licensed under the **MIT License**. You are free to use, modify, and
-distribute this project as long as proper credit is given.
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE.md) file for details.
